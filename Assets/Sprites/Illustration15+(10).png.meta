@@ -150,12 +150,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Illustration15+(10)_1
+      name: Station_Locked
       rect:
         serializedVersion: 2
-        x: 1485
-        y: 1526
-        width: 351
+        x: 1483
+        y: 1527
+        width: 355
         height: 305
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -273,12 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Illustration15+(10)_1: 2443132669776019092
       Illustration15+(10)_2: -5936458759547318852
       Illustration15+(10)_3: 6888273496960775717
       Illustration15+(10)_4: -5421441724674944646
       Illustration15+(10)_5: -463032131465446601
       Money_Bar: 6279523567310119569
+      Station_Locked: 2443132669776019092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

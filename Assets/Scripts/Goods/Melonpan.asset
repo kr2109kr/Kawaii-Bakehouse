@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levels:
   - clickCountTarget: 0
-    sellingPrice: 15
-    employeeTimer: 20
+    sellingPrice: 35
+    employeeTimer: 30
     upgradeCost: 0
   - clickCountTarget: 0
-    sellingPrice: 0
-    employeeTimer: 20
+    sellingPrice: 40
+    employeeTimer: 30
     upgradeCost: 0
   - clickCountTarget: 0
-    sellingPrice: 0
-    employeeTimer: 20
+    sellingPrice: 45
+    employeeTimer: 30
     upgradeCost: 0

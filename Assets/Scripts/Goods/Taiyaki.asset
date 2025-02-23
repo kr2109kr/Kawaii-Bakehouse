@@ -20,8 +20,8 @@ MonoBehaviour:
   - clickCountTarget: 10
     sellingPrice: 15
     employeeTimer: 5
-    upgradeCost: 50
+    upgradeCost: 100
   - clickCountTarget: 10
     sellingPrice: 20
     employeeTimer: 5
-    upgradeCost: 60
+    upgradeCost: 200
